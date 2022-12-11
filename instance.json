@@ -1,0 +1,155 @@
+{
+    "requests": {
+        "Aldo": {
+            "alpha": 18,
+            "beta": 16,
+            "epsilon": 35,
+            "zeta": 44
+        },
+        "Barbara": {
+            "beta": 7,
+            "delta": 13,
+            "epsilon": 22
+        },
+        "Claudia": {
+            "alpha": 6
+        },
+        "Dario": {
+            "alpha": 15,
+            "beta": 28,
+            "delta": 29,
+            "epsilon": 45,
+            "eta": 40
+        },
+        "Elena": {
+            "alpha": 38,
+            "beta": 44
+        }
+    },
+    "operatorData": {
+        "A": {
+            "startTime": 35,
+            "endTime": 67,
+            "canDo": [
+                "alpha",
+                "epsilon",
+                "eta"
+            ]
+        },
+        "B": {
+            "startTime": 24,
+            "endTime": 73,
+            "canDo": [
+                "beta",
+                "gamma",
+                "epsilon"
+            ]
+        },
+        "C": {
+            "startTime": 35,
+            "endTime": 50,
+            "canDo": [
+                "alpha",
+                "delta",
+                "zeta"
+            ]
+        },
+        "D": {
+            "startTime": 4,
+            "endTime": 10,
+            "canDo": [
+                "gamma",
+                "delta",
+                "eta"
+            ]
+        },
+        "E": {
+            "startTime": 6,
+            "endTime": 32,
+            "canDo": [
+                "alpha",
+                "beta",
+                "delta",
+                "eta"
+            ]
+        },
+        "F": {
+            "startTime": 23,
+            "endTime": 58,
+            "canDo": [
+                "gamma",
+                "delta",
+                "epsilon",
+                "eta"
+            ]
+        },
+        "G": {
+            "startTime": 6,
+            "endTime": 7,
+            "canDo": [
+                "alpha",
+                "beta",
+                "gamma",
+                "delta",
+                "eta"
+            ]
+        },
+        "H": {
+            "startTime": 33,
+            "endTime": 37,
+            "canDo": [
+                "alpha",
+                "epsilon",
+                "zeta",
+                "eta"
+            ]
+        }
+    },
+    "packets": {
+        "Aldo": [
+            [
+                "zeta",
+                "epsilon",
+                "alpha"
+            ],
+            [
+                "beta"
+            ]
+        ],
+        "Barbara": [
+            [
+                "beta"
+            ],
+            [
+                "delta",
+                "epsilon"
+            ]
+        ],
+        "Claudia": [
+            [
+                "alpha"
+            ]
+        ],
+        "Dario": [
+            [
+                "epsilon",
+                "delta",
+                "eta"
+            ],
+            [
+                "beta"
+            ],
+            [
+                "alpha"
+            ]
+        ],
+        "Elena": [
+            [
+                "beta"
+            ],
+            [
+                "alpha"
+            ]
+        ]
+    }
+}
