@@ -1,6 +1,6 @@
 # Codice per la risoluzione del problema dell'ospedale
 
-Il progetto contiene, oltre ali file delle classi utilzzate, gli script:
+Il progetto contiene, oltre ai file delle classi utilzzate, gli script:
 
 - `generateInstance.py` che, se eseguito crea delle istanze di esempio in formato JSON,
 - `solve.py` che risolve le istanze.
